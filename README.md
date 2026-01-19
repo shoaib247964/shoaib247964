@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Muhammad Shoaib
 
-### Backend Engineer • AI Workflows • Automation
+### AI Backend Engineer • AI Workflows • Automation
 
 I build **production-grade backend systems and AI-driven automation**.  
 My focus is simple: take unclear ideas, design them properly, and ship systems that work **reliably in the real world**.
