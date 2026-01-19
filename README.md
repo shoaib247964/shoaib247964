@@ -1,19 +1,87 @@
-## Hi there 👋
-# 💫 About Me:
-I’m a software engineer focused on building practical, production-ready systems. I work mostly on backend, AI workflows, and automation—turning messy ideas into clean, working solutions. I care about correctness, performance, and shipping things that actually run in the real world.
+## Hi 👋 I'm Muhammad Shoaib
 
+### Backend • AI Workflows • Automation
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mshoaib76) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad Shoaib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadshoaib1194@gmail.com) 
+I’m a software engineer who builds **practical, production-ready systems**.  
+My work lives where backend engineering, AI workflows, and automation meet.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+I focus on:
+- Turning vague ideas into **clean, working implementations**
+- Building systems that are **correct, scalable, and maintainable**
+- Shipping things that **actually run in real-world environments**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib247964&show_icons=true&locale=en&layout=compact" alt="shoaib247964" /></p>
+I care less about hype and more about:
+**performance, reliability, and execution.**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib247964&show_icons=true&locale=en" alt="shoaib247964" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib247964&" alt="shoaib247964" /></p>
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mshoaib76)
+[![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad%20Shoaib)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadshoaib1194@gmail.com)
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- C++
+
+### Backend & APIs
+- Flask
+- FastAPI
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### AI / Data
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Pandas
+- Seaborn
+
+### Frontend
+- React
+- React Native
+- HTML
+- CSS
+- Chart.js
+
+### DevOps & Automation
+- Docker
+- Git
+- Google Cloud Platform
+- Postman
+- Zapier
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib247964&layout=compact&show_icons=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaib247964&show_icons=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib247964" />
+</p>
+
+---
+
+### 🚀 What I’m Building
+- Backend systems that don’t fall apart under load
+- AI-powered automation pipelines
+- Tools that reduce manual work and improve reliability
+
+If you care about **solid engineering over flashy demos**, we’ll get along.
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
