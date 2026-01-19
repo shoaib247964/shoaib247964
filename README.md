@@ -2,27 +2,26 @@
 
 ### Backend Engineer • AI Systems • Automation Specialist
 
-I build **production-ready backend systems and AI-driven automation**.  
-My work focuses on **LLM-based applications, workflow orchestration, and cloud deployments** that function reliably beyond demos.
+I build **production-ready backend systems and LLM-powered automation**.  
+My focus is on **real deployments, agentic AI systems, and reliable workflows** — not demo-only projects.
 
 I optimize for:
-- Correct system design  
-- Automation-first thinking  
-- Shipping real, maintainable software  
+- Correct architecture  
+- Automation-first systems  
+- Shipping software that survives production  
 
 ---
 
 ## 🌐 Socials
-Connect with me professionally:
+Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mshoaib76)
-[![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad%20Shoaib)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadshoaib1194@gmail.com)
 
 ---
 
-## 💻 Languages  
-Core languages used to build APIs, AI systems, and automation logic.
+## 💻 Languages
+Languages used across backend, AI, and automation.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -30,14 +29,14 @@ Core languages used to build APIs, AI systems, and automation logic.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
-- **Python** – Backend services, LLM pipelines, automation, RAG systems  
-- **JavaScript** – Integrations, frontend logic, workflow scripting  
-- **C++** – Performance-aware and system-level understanding  
+- **Python** – APIs, LLM pipelines, RAG, automation  
+- **JavaScript** – Integrations, workflow logic  
+- **C++** – Performance-aware systems  
 
 ---
 
-## 🧠 Backend & APIs  
-Frameworks and databases for scalable backend services.
+## 🧠 Backend & APIs
+Frameworks and databases for scalable services.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
@@ -47,142 +46,110 @@ Frameworks and databases for scalable backend services.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
-- **FastAPI** – High-performance async APIs with OpenAPI documentation  
-- **Flask** – Lightweight services and rapid prototyping  
-- **PostgreSQL / MySQL** – Relational data storage  
-- **MongoDB** – Schema-flexible document storage  
+- **FastAPI** – High-performance async APIs  
+- **Flask** – Lightweight backend services  
+- **PostgreSQL / MySQL** – Relational data  
+- **MongoDB** – Flexible document storage  
 
 ---
 
-## 🧠 LLM & AI Frameworks  
-Core frameworks for building LLM-powered systems.
+## 🤖 LLM & AI Frameworks
+Core tools for LLM-based applications.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
-- **LLMs** – Prompting, reasoning, tool usage, and inference  
-- **LangChain** – LLM orchestration, tools, memory, and RAG pipelines  
-
----
-
-## 🔗 Agentic & Multi-Agent Systems  
-Frameworks for complex reasoning and agent coordination.
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" width="40"/>
-</p>
-
+- **LLMs** – Prompting, reasoning, tool calling  
+- **LangChain** – LLM orchestration, tools, memory  
 - **LangGraph** – Stateful, graph-based agent workflows  
-- **Multi-Agent Systems** – Task delegation, coordination, and reasoning flows  
+- **Multi-Agent Systems** – Task delegation and coordination  
 
 ---
 
-## 📚 RAG (Retrieval-Augmented Generation)  
-Systems that combine LLMs with external knowledge.
+## 📚 RAG (Retrieval-Augmented Generation)
+Knowledge-grounded LLM systems.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
-- **RAG Pipelines** – Document ingestion, chunking, embeddings, retrieval, and generation  
-- **Hybrid Search** – Combining semantic + structured retrieval  
+- **RAG Pipelines** – Ingestion, embeddings, retrieval, generation  
+- **Hybrid Search** – Semantic + structured retrieval  
 
 ---
 
-## 🧠 Vector Databases & Storage  
-Tools used for embeddings, similarity search, and memory.
+## 🧠 Vector Databases & Storage
+Embedding storage and similarity search.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/qdrant/qdrant-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pinecone/pinecone-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="40"/>
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/database.svg" width="40"/>
-</p>
-
-- **Qdrant** – Open-source vector database for semantic search  
-- **Pinecone** – Managed vector database for production RAG systems  
-- **FAISS** – High-performance similarity search library  
-- **Chroma** – Lightweight vector store for local and prototype systems  
-- **SQLite** – Lightweight relational storage for metadata and state  
+- **Qdrant** – Open-source vector database  
+- **Pinecone** – Managed vector DB for production RAG  
+- **FAISS** – High-performance similarity search  
+- **Chroma** – Lightweight local vector store  
+- **SQLite** – Metadata and state storage  
 
 ---
 
-## ⚙️ Automation & Workflows  
-Tools for orchestrating systems and eliminating manual processes.
+## ⚙️ Automation & Workflows
+Orchestration and process automation.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/>
 </p>
 
-- **n8n** – Workflow orchestration, API automation, AI pipelines  
+- **n8n** – Workflow orchestration and AI pipelines  
 - **Zapier** – Event-based integrations  
 
 ---
 
-## 🚀 Deployment & Cloud  
-Platforms used to deploy and scale applications.
+## 🚀 Deployment & Cloud
+Production deployment platforms.
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
 </p>
 
-- **Render** – Fast deployment for backend services  
-- **Railway** – CI-friendly infrastructure deployments  
-- **Google Cloud Platform (GCP)** – Scalable cloud infrastructure  
+- **Render** – Simple backend deployments  
+- **Railway** – CI-friendly infrastructure  
+- **Google Cloud Platform (GCP)** – Scalable cloud systems  
 
 ---
 
-## 🔁 Version Control & Collaboration  
-Code management and delivery workflows.
+## 🔁 Version Control & Collaboration
+Source control and delivery.
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </p>
 
-- **Git** – Source control and version tracking  
-- **GitHub** – Collaboration, CI/CD, and project management  
+- **Git** – Version control  
+- **GitHub** – Collaboration and CI/CD  
 
 ---
 
-## 🧰 DevOps & Tooling  
-Supporting tools for development and testing.
+## 🧰 DevOps & Tooling
+Development and testing support.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
-- **Docker** – Containerized, reproducible environments  
-- **Postman** – API testing and validation  
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib247964&layout=compact" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaib247964&show_icons=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib247964" />
-</p>
+- **Docker** – Containerized environments  
+- **Postman** – API testing  
 
 ---
 
 ### 🎯 Current Focus
-- LLM-powered systems with LangChain & LangGraph  
-- RAG pipelines using vector databases  
-- n8n automation + FastAPI backends  
-- Cloud-deployed, production-grade AI services  
+- LLM + LangChain + LangGraph systems  
+- RAG with vector databases  
+- n8n automation with FastAPI backends  
+- Cloud-deployed AI services  
