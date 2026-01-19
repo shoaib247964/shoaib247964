@@ -1,19 +1,19 @@
 ## Hi 👋 I'm Muhammad Shoaib
 
-### AI Backend Engineer • AI Workflows • Automation
+### Backend Engineer • AI Workflows • Automation Specialist
 
-I build **production-grade backend systems and AI-driven automation**.  
-My focus is simple: take unclear ideas, design them properly, and ship systems that work **reliably in the real world**.
+I build **production-ready backend systems and automation pipelines**.  
+My focus is on **clean architecture, reliable APIs, AI-driven workflows, and real deployments**—not demos that break outside localhost.
 
-I care about:
-- Clean architecture
-- Correctness & performance
-- Systems that scale without breaking
+I optimize for:
+- Correctness and performance  
+- Automation over manual processes  
+- Shipping systems that actually run in production  
 
 ---
 
 ## 🌐 Socials
-Connect with me and see what I’m building:
+Connect with me professionally:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mshoaib76)
 [![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad%20Shoaib)
@@ -21,26 +21,42 @@ Connect with me and see what I’m building:
 
 ---
 
-## 💻 Languages
+## 💻 Languages  
+Core languages used across backend, automation, and AI systems.
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
+- **Python** – Backend APIs, AI workflows, automation, data processing  
+- **JavaScript** – Integrations, frontend logic, workflow scripting  
+- **C++** – Performance-oriented logic and low-level understanding  
+
 ---
 
-## 🧠 Backend & Databases
+## 🧠 Backend & APIs  
+Frameworks and databases for scalable, maintainable services.
+
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
+- **FastAPI** – High-performance async APIs with automatic OpenAPI docs  
+- **Flask** – Lightweight services and rapid backend development  
+- **PostgreSQL / MySQL** – Reliable relational databases  
+- **MongoDB** – Flexible document-based storage  
+
 ---
 
-## 🤖 AI & Data
+## 🤖 AI & Data  
+Tools for building intelligent, data-driven systems.
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
@@ -48,27 +64,61 @@ Connect with me and see what I’m building:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
----
-
-## 🎨 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40"/>
-</p>
+- **PyTorch / TensorFlow** – Model training and inference  
+- **Scikit-learn** – Classical machine learning pipelines  
+- **Pandas** – Data analysis and transformation  
 
 ---
 
-## ⚙️ DevOps & Automation
+## ⚙️ Automation & Workflows  
+Systems used to eliminate manual work and orchestrate processes.
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/>
 </p>
+
+- **n8n** – Advanced workflow automation, API orchestration, AI pipelines  
+- **Zapier** – Event-based automation and third-party integrations  
+
+---
+
+## 🚀 Deployment & Cloud  
+Platforms used to deploy and scale production systems.
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+</p>
+
+- **Render** – Simple and fast deployment for backend services  
+- **Railway** – Developer-friendly infrastructure and CI-based deployments  
+- **Google Cloud Platform (GCP)** – Scalable cloud infrastructure  
+
+---
+
+## 🔁 Version Control & Collaboration  
+How code is managed, reviewed, and shipped.
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
+
+- **Git** – Version control and code history management  
+- **GitHub** – Collaboration, CI/CD pipelines, and project tracking  
+
+---
+
+## 🧰 DevOps & Tooling  
+Supporting tools for development and testing.
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+- **Docker** – Containerized, reproducible environments  
+- **Postman** – API testing and validation  
 
 ---
 
@@ -88,7 +138,7 @@ Connect with me and see what I’m building:
 
 ---
 
-### 🚀 Current Focus
-- Scalable backend systems
-- AI-powered automation workflows
-- Reliable APIs that don’t break in production
+### 🎯 Current Focus
+- n8n-based automation and AI workflows  
+- FastAPI-powered backend systems  
+- Cloud-deployed, production-ready services  
