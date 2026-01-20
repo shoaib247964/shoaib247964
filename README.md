@@ -48,7 +48,7 @@ Frameworks and databases for scalable services.
 
 - **FastAPI** – High-performance async APIs  
 - **Flask** – Lightweight backend services  
-- **PostgreSQL / MySQL** – Relational data  
+-  **MySQL** – Relational data  
 - **MongoDB** – Flexible document storage  
 
 ---
